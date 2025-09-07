@@ -6,11 +6,19 @@
 
 </br>
 
-# About Me 💬  
+# Me 
 
-- Aspiring **Full Stack Developer (Java + Spring Boot + React)**  
-- Passionate about **DSA & Problem Solving**  
-- Currently learning **Core Java, Spring Boot, and DSA**  
+- Learning & exploring Java Full Stack 
+- Problem Solving  
+- Building cool stuff!
+
+</br>
+
+# Connect with me
+
+- X: https://x.com/krisharma_955  
+- LinkedIn: https://www.linkedin.com/in/krisharma955/
+- Medium: https://medium.com/@krisharma_955
 
 </br>
 
@@ -23,17 +31,3 @@
 </div>
 
 </br>
-
-```java
-// If you have an idea - Code it up!
-try {
-    Developer krish = new Developer.Builder()
-        .role("Software Developer")
-        .speciality("Java + Spring Boot")
-        .passion("DSA & Problem Solving")
-        .build();
-        
-    krish.executeDreams();
-} catch (Bug e) {
-    System.out.println("Not all errors are failures — some are pitstops.");
-}
