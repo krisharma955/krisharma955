@@ -7,15 +7,12 @@
 </br>
 
 # About Me 
-
 - Learning & exploring Java Full Stack 
 - Problem Solving  
 - Building cool stuff!
-
 </br>
 
 # Connect with me
-
 - X: https://x.com/krisharma_955  
 - LinkedIn: https://www.linkedin.com/in/krisharma955/
 - Medium: https://medium.com/@krisharma_955
@@ -29,5 +26,3 @@
     <img src="https://skillicons.dev/icons?i=java,spring,mongodb,html,css,js,mysql,postgres,git&theme=dark&perline=3" />
   </a>
 </div>
-
-</br>
