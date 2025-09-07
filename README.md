@@ -1,12 +1,12 @@
 # Hello!
 
 <div align="center">
-<img height="250" width="600" alt="Coding Animation" align="center" src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWd5b3R3Ynk0MnFyejN5cWpueTR3N3VjMzV0YzY1Nzg4emh5Zmt5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif](https://pin.it/2bstjbdUl)">
+<img height="250" width="600" alt="Coding Animation" align="center" src="https://camo.githubusercontent.com/908839a051067c7150f1a49062b26dd72d0733b966b3922d4152c72f620efe92/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45786257643562335233596e6b304d6e4679656a4e3563577075655452334e33566a4d7a5630597a59314e7a6734656d68355a6d74354d435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f5773365435504e37774876336359387879382f67697068792e676966">
 </div>
 
 </br>
 
-# Me 
+# About Me 
 
 - Learning & exploring Java Full Stack 
 - Problem Solving  
