@@ -1,5 +1,4 @@
-# Hi! I'm Krish:
-I'm currently working on refining my full stack skills, in addition with exploring AI.
+<h3>Currently working on refining my full stack skills, in addition with exploring AI.</h3>
 
 ## Connect w me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krisharma955) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@krisharma_955) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_ks955) 
