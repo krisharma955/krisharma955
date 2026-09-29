@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=750&height=70&duration=3000&pause=700&color=FFFFFF&lines=Hello%2C+I'm+Krish+Sharma;Backend-Focused+Full+Stack+Developer;Problem+Solving+%7C+Data+Analytics;" alt="Typing SVG" />
+</h1>
+
 <i>Curious about how systems work. Driven to build them.</i>
 
 ###
